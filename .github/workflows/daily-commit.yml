@@ -1,0 +1,56 @@
+name: 🌟 Daily Commit - Duy trì chuỗi 365 ngày
+
+on:
+  schedule:
+    # Chạy lúc 14:00 UTC = 21:00 giờ Việt Nam (GMT+7)
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Cho phép chạy thủ công
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 📅 Tạo thông tin ngày
+        id: date
+        run: |
+          # Đặt timezone Việt Nam
+          export TZ='Asia/Ho_Chi_Minh'
+          
+          echo "today=$(date +'%d/%m/%Y')" >> $GITHUB_OUTPUT
+          echo "day_of_year=$(date +'%j' | sed 's/^0*//')" >> $GITHUB_OUTPUT
+          echo "time=$(date +'%H:%M:%S')" >> $GITHUB_OUTPUT
+          
+          # Random emoji
+          emojis=("🌟" "💪" "🚀" "✨" "🎯" "🌱" "💡" "⚡" "🔥" "🎉")
+          random_emoji=${emojis[$RANDOM % ${#emojis[@]}]}
+          echo "emoji=$random_emoji" >> $GITHUB_OUTPUT
+      
+      - name: 📝 Cập nhật log
+        run: |
+          mkdir -p logs
+          
+          cat >> logs/commit-log.md << EOF
+
+## ${{ steps.date.outputs.emoji }} Ngày ${{ steps.date.outputs.day_of_year }}/365 - ${{ steps.date.outputs.today }}
+
+- ⏰ Thời gian: ${{ steps.date.outputs.time }}
+- ✅ Auto commit từ GitHub Actions!
+- 🤖 Triggered by: ${{ github.event_name }}
+
+---
+EOF
+
+      - name: 🔄 Commit và Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          git add .
+          git commit -m "${{ steps.date.outputs.emoji }} Day ${{ steps.date.outputs.day_of_year }}/365 - ${{ steps.date.outputs.today }} - Keep the streak alive! 🔥"
+          git push
