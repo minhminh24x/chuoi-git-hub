@@ -1,56 +1,45 @@
-name: 🌟 Daily Commit - Duy trì chuỗi 365 ngày
+name: Daily Commit - Duy tri chuoi 365 ngay
 
 on:
   schedule:
-    # Chạy lúc 14:00 UTC = 21:00 giờ Việt Nam (GMT+7)
+    # Chay luc 14:00 UTC = 21:00 gio Viet Nam (GMT+7)
     - cron: '0 14 * * *'
-  workflow_dispatch: # Cho phép chạy thủ công
+  workflow_dispatch:
 
 jobs:
   daily-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: 📅 Tạo thông tin ngày
-        id: date
+      - name: Create date info and update log
         run: |
-          # Đặt timezone Việt Nam
           export TZ='Asia/Ho_Chi_Minh'
           
-          echo "today=$(date +'%d/%m/%Y')" >> $GITHUB_OUTPUT
-          echo "day_of_year=$(date +'%j' | sed 's/^0*//')" >> $GITHUB_OUTPUT
-          echo "time=$(date +'%H:%M:%S')" >> $GITHUB_OUTPUT
+          TODAY=$(date +'%d/%m/%Y')
+          DAY_OF_YEAR=$(date +'%j' | sed 's/^0*//')
+          TIME=$(date +'%H:%M:%S')
           
-          # Random emoji
-          emojis=("🌟" "💪" "🚀" "✨" "🎯" "🌱" "💡" "⚡" "🔥" "🎉")
-          random_emoji=${emojis[$RANDOM % ${#emojis[@]}]}
-          echo "emoji=$random_emoji" >> $GITHUB_OUTPUT
-      
-      - name: 📝 Cập nhật log
-        run: |
+          EMOJIS=("🌟" "💪" "🚀" "✨" "🎯" "🌱" "💡" "⚡" "🔥" "🎉")
+          RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
+          
           mkdir -p logs
           
-          cat >> logs/commit-log.md << EOF
-
-## ${{ steps.date.outputs.emoji }} Ngày ${{ steps.date.outputs.day_of_year }}/365 - ${{ steps.date.outputs.today }}
-
-- ⏰ Thời gian: ${{ steps.date.outputs.time }}
-- ✅ Auto commit từ GitHub Actions!
-- 🤖 Triggered by: ${{ github.event_name }}
-
----
-EOF
-
-      - name: 🔄 Commit và Push
-        run: |
+          echo "" >> logs/commit-log.md
+          echo "## $RANDOM_EMOJI Ngay $DAY_OF_YEAR/365 - $TODAY" >> logs/commit-log.md
+          echo "" >> logs/commit-log.md
+          echo "- Thoi gian: $TIME" >> logs/commit-log.md
+          echo "- Auto commit tu GitHub Actions!" >> logs/commit-log.md
+          echo "" >> logs/commit-log.md
+          echo "---" >> logs/commit-log.md
+          
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           
           git add .
-          git commit -m "${{ steps.date.outputs.emoji }} Day ${{ steps.date.outputs.day_of_year }}/365 - ${{ steps.date.outputs.today }} - Keep the streak alive! 🔥"
+          git diff --staged --quiet || git commit -m "$RANDOM_EMOJI Day $DAY_OF_YEAR/365 - $TODAY - Keep the streak alive!"
           git push
