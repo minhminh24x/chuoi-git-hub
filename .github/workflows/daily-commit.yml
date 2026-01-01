@@ -1,4 +1,4 @@
-name: Daily Commit - Duy tri chuoi 365 ngay
+name: Daily Commit - Duy tri chuoi 365 ngay + Art
 
 on:
   schedule:
@@ -16,30 +16,54 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Create date info and update log
+      - name: Read pattern and create commits
         run: |
           export TZ='Asia/Ho_Chi_Minh'
           
-          TODAY=$(date +'%d/%m/%Y')
+          TODAY=$(date +'%Y-%m-%d')
+          TODAY_DISPLAY=$(date +'%d/%m/%Y')
           DAY_OF_YEAR=$(date +'%j' | sed 's/^0*//')
           TIME=$(date +'%H:%M:%S')
           
-          EMOJIS=("🌟" "💪" "🚀" "✨" "🎯" "🌱" "💡" "⚡" "🔥" "🎉")
-          RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
+          # Đọc số commits cần tạo từ pattern file
+          if [ -f "commit-pattern.json" ]; then
+            COMMIT_COUNT=$(cat commit-pattern.json | grep "\"$TODAY\"" | grep -o '[0-9]*' | tail -1)
+          fi
           
-          mkdir -p logs
+          # Default là 1 nếu không tìm thấy
+          if [ -z "$COMMIT_COUNT" ] || [ "$COMMIT_COUNT" -lt 1 ]; then
+            COMMIT_COUNT=1
+          fi
           
-          echo "" >> logs/commit-log.md
-          echo "## $RANDOM_EMOJI Ngay $DAY_OF_YEAR/365 - $TODAY" >> logs/commit-log.md
-          echo "" >> logs/commit-log.md
-          echo "- Thoi gian: $TIME" >> logs/commit-log.md
-          echo "- Auto commit tu GitHub Actions!" >> logs/commit-log.md
-          echo "" >> logs/commit-log.md
-          echo "---" >> logs/commit-log.md
+          echo "📅 Ngày: $TODAY_DISPLAY"
+          echo "📊 Số commits cần tạo: $COMMIT_COUNT"
           
+          # Cấu hình git
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           
-          git add .
-          git diff --staged --quiet || git commit -m "$RANDOM_EMOJI Day $DAY_OF_YEAR/365 - $TODAY - Keep the streak alive!"
+          # Random emoji
+          EMOJIS=("🌟" "💪" "🚀" "✨" "🎯" "🌱" "💡" "⚡" "🔥" "🎉")
+          
+          mkdir -p logs
+          
+          # Tạo đúng số commits
+          for i in $(seq 1 $COMMIT_COUNT); do
+            RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
+            
+            # Cập nhật log
+            echo "" >> logs/commit-log.md
+            echo "## $RANDOM_EMOJI Day $DAY_OF_YEAR/365 - $TODAY_DISPLAY (Commit $i/$COMMIT_COUNT)" >> logs/commit-log.md
+            echo "- Time: $TIME" >> logs/commit-log.md
+            echo "---" >> logs/commit-log.md
+            
+            git add .
+            git commit -m "$RANDOM_EMOJI Day $DAY_OF_YEAR - $TODAY_DISPLAY [$i/$COMMIT_COUNT]"
+            
+            echo "✅ Commit $i/$COMMIT_COUNT done"
+          done
+          
+          # Push tất cả commits
           git push
+          
+          echo "🎉 Hoàn thành $COMMIT_COUNT commits cho ngày $TODAY_DISPLAY!"
