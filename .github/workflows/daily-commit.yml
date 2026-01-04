@@ -39,7 +39,7 @@ jobs:
           echo "📊 Số commits cần tạo: $COMMIT_COUNT"
           
           # Cấu hình git - QUAN TRỌNG: Email phải khớp với email GitHub của bạn!
-          git config --local user.email "minhminh24x@users.noreply.github.com"
+          git config --local user.email "loclm9824@gmail.com"
           git config --local user.name "minhminh24x"
           
           # Random emoji
