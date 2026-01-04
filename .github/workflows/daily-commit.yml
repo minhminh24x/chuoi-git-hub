@@ -39,15 +39,26 @@ jobs:
           
           CURRENT_STREAK=0
           TOTAL_COMMITS=0
+          LAST_COMMIT_DATE=""
           if [ -f "data/stats.json" ]; then
             CURRENT_STREAK=$(cat data/stats.json | grep '"currentStreak"' | grep -o '[0-9]*' | head -1)
             TOTAL_COMMITS=$(cat data/stats.json | grep '"totalCommits"' | grep -o '[0-9]*' | head -1)
+            LAST_COMMIT_DATE=$(cat data/stats.json | grep '"lastCommitDate"' | sed 's/.*"\([0-9-]*\)".*/\1/')
           fi
           [ -z "$CURRENT_STREAK" ] && CURRENT_STREAK=0
           [ -z "$TOTAL_COMMITS" ] && TOTAL_COMMITS=0
           
-          NEW_STREAK=$((CURRENT_STREAK + 1))
-          NEW_TOTAL=$((TOTAL_COMMITS + COMMIT_COUNT))
+          # Streak = ngày trong năm (vì bắt đầu từ 1/1/2026)
+          NEW_STREAK=$DAY_OF_YEAR
+          
+          # Chỉ tăng total commits nếu chưa commit hôm nay
+          if [ "$LAST_COMMIT_DATE" = "$TODAY" ]; then
+            NEW_TOTAL=$TOTAL_COMMITS
+            echo "⚠️ Đã commit hôm nay rồi, không tăng total"
+          else
+            NEW_TOTAL=$((TOTAL_COMMITS + COMMIT_COUNT))
+          fi
+          
           PROGRESS=$(echo "scale=1; $DAY_OF_YEAR * 100 / 365" | bc)
           PROGRESS_WIDTH=$(echo "scale=0; $DAY_OF_YEAR * 700 / 365" | bc)
           
