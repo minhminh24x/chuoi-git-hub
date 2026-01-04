@@ -47,6 +47,44 @@ jobs:
           
           mkdir -p logs
           
+          # Cập nhật README.md với ngày hiện tại
+          echo "# 🌟 Hành Trình 365 Ngày - 2026" > README.md
+          echo "" >> README.md
+          echo "> *\"Mỗi ngày một bước nhỏ, cả năm một hành trình vĩ đại.\"*" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "## 📅 Ngày $DAY_OF_YEAR/365 - $TODAY_DISPLAY" >> README.md
+          echo "" >> README.md
+          echo "**Hôm nay là ngày thứ $DAY_OF_YEAR của hành trình 1 năm.**" >> README.md
+          echo "" >> README.md
+          echo "Đây không chỉ là về việc giữ chuỗi GitHub xanh. Đây là lời hứa với bản thân:" >> README.md
+          echo "- 🎯 Mỗi ngày đều có ý nghĩa" >> README.md
+          echo "- 💪 Kiên trì là chìa khóa của thành công" >> README.md
+          echo "- 🌱 Từng commit nhỏ sẽ tạo nên những điều lớn lao" >> README.md
+          echo "" >> README.md
+          echo "### ✨ Lời nhắn cho chính mình" >> README.md
+          echo "" >> README.md
+          echo "\`\`\`" >> README.md
+          echo "Năm mới, trang mới, con người mới." >> README.md
+          echo "Đừng sợ thất bại, hãy sợ không dám bắt đầu." >> README.md
+          echo "365 ngày sau, hãy nhìn lại và tự hào về những gì đã làm được!" >> README.md
+          echo "\`\`\`" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "## 📊 Thống kê" >> README.md
+          echo "" >> README.md
+          echo "| Năm | Ngày đã commit | Mục tiêu |" >> README.md
+          echo "|-----|----------------|----------|" >> README.md
+          echo "| 2026 | $DAY_OF_YEAR | 365 |" >> README.md
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "" >> README.md
+          echo "*\"Cuộc hành trình ngàn dặm bắt đầu từ một bước chân.\" - Lão Tử*" >> README.md
+          echo "" >> README.md
+          echo "🚀 **Let's go 2026!**" >> README.md
+          
           # Tạo đúng số commits
           for i in $(seq 1 $COMMIT_COUNT); do
             RANDOM_EMOJI=${EMOJIS[$RANDOM % ${#EMOJIS[@]}]}
