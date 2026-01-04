@@ -1,20 +1,30 @@
 {
     "achievements": [
         {
-            "id": "first_commit",
-            "name": "Khởi Đầu",
-            "icon": "🎬",
+            "id": "first_step",
+            "name": "Bước Đầu Tiên",
+            "icon": "🚀",
             "description": "Commit đầu tiên của hành trình",
             "condition": {
-                "type": "total_days",
+                "type": "streak",
                 "value": 1
             }
         },
         {
+            "id": "three_days",
+            "name": "Hattsune",
+            "icon": "🌸",
+            "description": "3 ngày liên tiếp - mới chỉ bắt đầu!",
+            "condition": {
+                "type": "streak",
+                "value": 3
+            }
+        },
+        {
             "id": "first_week",
-            "name": "First Week",
-            "icon": "🔥",
-            "description": "7 ngày liên tiếp không nghỉ",
+            "name": "Tuần Lễ Đầu",
+            "icon": "🔱",
+            "description": "7 ngày liên tiếp - bạn đang làm tốt!",
             "condition": {
                 "type": "streak",
                 "value": 7
@@ -22,69 +32,169 @@
         },
         {
             "id": "two_weeks",
-            "name": "Fortnight Fighter",
+            "name": "Chiến Binh",
             "icon": "⚔️",
-            "description": "14 ngày chiến đấu liên tục",
+            "description": "14 ngày - đã vượt qua thử thách đầu tiên!",
             "condition": {
                 "type": "streak",
                 "value": 14
             }
         },
         {
+            "id": "three_weeks",
+            "name": "Học Viên",
+            "icon": "📚",
+            "description": "21 ngày - thói quen đang hình thành!",
+            "condition": {
+                "type": "streak",
+                "value": 21
+            }
+        },
+        {
             "id": "one_month",
-            "name": "Monthly Master",
-            "icon": "🌙",
-            "description": "30 ngày không gián đoạn",
+            "name": "Tháng Đầu",
+            "icon": "🌕",
+            "description": "30 ngày - một tháng hoàn hảo!",
             "condition": {
                 "type": "streak",
                 "value": 30
             }
         },
         {
+            "id": "forty_days",
+            "name": "Thiền Sư",
+            "icon": "🧘",
+            "description": "40 ngày tu luyện không ngừng",
+            "condition": {
+                "type": "streak",
+                "value": 40
+            }
+        },
+        {
             "id": "fifty_days",
             "name": "Half Century",
-            "icon": "⭐",
-            "description": "50 ngày - nửa đường đến 100",
+            "icon": "💫",
+            "description": "50 ngày - nửa đường đến 100!",
             "condition": {
                 "type": "streak",
                 "value": 50
             }
         },
         {
+            "id": "sixty_days",
+            "name": "Kiên Định",
+            "icon": "🏔️",
+            "description": "60 ngày vững như núi",
+            "condition": {
+                "type": "streak",
+                "value": 60
+            }
+        },
+        {
+            "id": "ninety_days",
+            "name": "Quý Một",
+            "icon": "🍀",
+            "description": "90 ngày - một quý đầy ý nghĩa!",
+            "condition": {
+                "type": "streak",
+                "value": 90
+            }
+        },
+        {
             "id": "century",
-            "name": "Century Club",
-            "icon": "💯",
-            "description": "100 ngày LEGENDARY!",
+            "name": "CENTURY",
+            "icon": "💎",
+            "description": "100 ngày LEGENDARY! Bạn là huyền thoại!",
             "condition": {
                 "type": "streak",
                 "value": 100
             }
         },
         {
+            "id": "one_twenty",
+            "name": "Bậc Thầy",
+            "icon": "🎓",
+            "description": "120 ngày - 4 tháng không nghỉ!",
+            "condition": {
+                "type": "streak",
+                "value": 120
+            }
+        },
+        {
+            "id": "one_fifty",
+            "name": "Samurai",
+            "icon": "🗡️",
+            "description": "150 ngày - tinh thần võ sĩ đạo!",
+            "condition": {
+                "type": "streak",
+                "value": 150
+            }
+        },
+        {
             "id": "halfway",
-            "name": "Halfway Hero",
+            "name": "NỬA CHẶNG ĐƯỜNG",
             "icon": "🎯",
-            "description": "182 ngày - đã đi nửa chặng đường!",
+            "description": "182 ngày - đã đi được 50%! Cố lên!",
             "condition": {
                 "type": "streak",
                 "value": 182
             }
         },
         {
+            "id": "two_hundred",
+            "name": "Huyền Thoại",
+            "icon": "🐉",
+            "description": "200 ngày - như rồng bay lên trời!",
+            "condition": {
+                "type": "streak",
+                "value": 200
+            }
+        },
+        {
+            "id": "two_fifty",
+            "name": "Siêu Nhân",
+            "icon": "🦸",
+            "description": "250 ngày - vượt qua giới hạn!",
+            "condition": {
+                "type": "streak",
+                "value": 250
+            }
+        },
+        {
             "id": "three_hundred",
-            "name": "Spartan",
+            "name": "SPARTAN",
             "icon": "🛡️",
-            "description": "300 ngày như chiến binh Sparta",
+            "description": "300 ngày như 300 chiến binh Sparta!",
             "condition": {
                 "type": "streak",
                 "value": 300
             }
         },
         {
+            "id": "three_thirty",
+            "name": "Tiên Nhân",
+            "icon": "✨",
+            "description": "330 ngày - gần chạm đỉnh vinh quang!",
+            "condition": {
+                "type": "streak",
+                "value": 330
+            }
+        },
+        {
+            "id": "three_fifty",
+            "name": "Đại Sư",
+            "icon": "🔮",
+            "description": "350 ngày - chỉ còn 15 ngày nữa!",
+            "condition": {
+                "type": "streak",
+                "value": 350
+            }
+        },
+        {
             "id": "champion",
-            "name": "365 Champion",
+            "name": "VƯƠNG GIẢ 365",
             "icon": "👑",
-            "description": "365 ngày - VƯƠNG GIẢ đích thực!",
+            "description": "365 NGÀY! BẠN ĐÃ CHINH PHỤC!",
             "condition": {
                 "type": "streak",
                 "value": 365
@@ -92,7 +202,7 @@
         },
         {
             "id": "early_bird",
-            "name": "Early Bird",
+            "name": "Chim Sớm",
             "icon": "🌅",
             "description": "Commit trước 6:00 sáng",
             "condition": {
@@ -102,7 +212,7 @@
         },
         {
             "id": "night_owl",
-            "name": "Night Owl",
+            "name": "Cú Đêm",
             "icon": "🦉",
             "description": "Commit sau 23:00 đêm",
             "condition": {
@@ -114,25 +224,35 @@
             "id": "weekend_warrior",
             "name": "Weekend Warrior",
             "icon": "⚡",
-            "description": "Commit vào thứ 7 và Chủ nhật",
+            "description": "Commit vào cuối tuần",
             "condition": {
                 "type": "day",
                 "value": "weekend"
             }
         },
         {
-            "id": "double_digits",
-            "name": "Double Digits",
-            "icon": "🎰",
-            "description": "Ngày có 10+ commits",
+            "id": "holiday_spirit",
+            "name": "Tinh Thần Lễ Hội",
+            "icon": "🎄",
+            "description": "Commit vào ngày lễ",
             "condition": {
-                "type": "daily_commits",
-                "value": 10
+                "type": "day",
+                "value": "holiday"
+            }
+        },
+        {
+            "id": "fifty_commits",
+            "name": "50 Commits",
+            "icon": "📦",
+            "description": "Tổng cộng 50 commits",
+            "condition": {
+                "type": "total_commits",
+                "value": 50
             }
         },
         {
             "id": "hundred_commits",
-            "name": "Commit Centurion",
+            "name": "100 Commits",
             "icon": "🏛️",
             "description": "Tổng cộng 100 commits",
             "condition": {
@@ -141,13 +261,33 @@
             }
         },
         {
+            "id": "two_fifty_commits",
+            "name": "250 Commits",
+            "icon": "🚂",
+            "description": "Tổng cộng 250 commits - không ngừng nghỉ!",
+            "condition": {
+                "type": "total_commits",
+                "value": 250
+            }
+        },
+        {
             "id": "five_hundred_commits",
-            "name": "Commit Commander",
-            "icon": "🎖️",
-            "description": "Tổng cộng 500 commits",
+            "name": "500 Commits",
+            "icon": "🏆",
+            "description": "Tổng cộng 500 commits - INCREDIBLE!",
             "condition": {
                 "type": "total_commits",
                 "value": 500
+            }
+        },
+        {
+            "id": "thousand_commits",
+            "name": "1000 Commits",
+            "icon": "💰",
+            "description": "Tổng cộng 1000 commits - UNBELIEVABLE!",
+            "condition": {
+                "type": "total_commits",
+                "value": 1000
             }
         }
     ]
