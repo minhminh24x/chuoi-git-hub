@@ -1,75 +1,73 @@
-# 🌟 Hành Trình 365 Ngày - 2026
-
 <div align="center">
+
+# 🌟 HÀNH TRÌNH 365 NGÀY - 2026 🌟
 
 ![GitHub Streak Banner](assets/banner.svg)
 
-[![Daily Commit](https://github.com/minhminh24x/chuoi-git-hub/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/minhminh24x/chuoi-git-hub/actions/workflows/daily-commit.yml)
+[![Daily Commit](https://github.com/minhminh24x/chuoi-git-hub/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/minhminh24x/chuoi-git-hub/actions)
+
+*"Mỗi ngày một bước nhỏ, cả năm một hành trình vĩ đại."*
 
 </div>
 
-> *"Mỗi ngày một bước nhỏ, cả năm một hành trình vĩ đại."*
-
 ---
 
-## 📅 Ngày 4/365 - 04/01/2026
+## 📅 Ngày 4/365 — 04/01/2026
 
-**Hôm nay là ngày thứ 4 của hành trình 1 năm.**
-
-### 📊 Thống Kê Real-time
-
-| Metric | Value |
-|--------|-------|
-| 🔥 **Current Streak** | 5 ngày |
-| 💻 **Total Commits** | 18 |
-| 📈 **Progress** | 1.0% |
-| 🎯 **Target** | 365 ngày |
+| 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
+|:---------:|:----------:|:-----------:|:---------:|
+| **4 ngày** | **17** | **1.0%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-░░░░░░░░░░░░░░░░░░░░ 1.0% (4/365)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1.0% (4/365)
 ```
 
-### 🏆 Achievements Unlocked
+---
 
-🎬 
+## 🏆 Thành Tựu Đã Đạt Được
+
+<div align="center">
+
+🚀 🌸 
+
+</div>
 
 <details>
-<summary>📋 Xem tất cả achievements</summary>
+<summary>📋 <b>Xem tất cả thành tựu</b></summary>
 
-| Badge | Tên | Điều kiện | Status |
-|-------|-----|-----------|--------|
-| 🎬 | Khởi Đầu | 1 ngày | ✅ |
-| 🔥 | First Week | 7 ngày | ⏳ |
-| ⚔️ | Fortnight | 14 ngày | ⏳ |
-| 🌙 | Monthly | 30 ngày | ⏳ |
-| ⭐ | Half Century | 50 ngày | ⏳ |
-| 💯 | Century | 100 ngày | ⏳ |
-| 🎯 | Halfway | 182 ngày | ⏳ |
-| 🛡️ | Spartan | 300 ngày | ⏳ |
-| 👑 | Champion | 365 ngày | ⏳ |
+| Icon | Thành Tựu | Điều Kiện | Status |
+|:----:|-----------|:---------:|:------:|
+| 🚀 | Bước Đầu Tiên | 1 ngày | ✅ |
+| 🌸 | Hattsune | 3 ngày | ✅ |
+| 🔱 | Tuần Lễ Đầu | 7 ngày | ⏳ |
+| ⚔️ | Chiến Binh | 14 ngày | ⏳ |
+| 📚 | Học Viên | 21 ngày | ⏳ |
+| 🌕 | Tháng Đầu | 30 ngày | ⏳ |
+| 💫 | Half Century | 50 ngày | ⏳ |
+| 💎 | CENTURY | 100 ngày | ⏳ |
+| 🗡️ | Samurai | 150 ngày | ⏳ |
+| 🎯 | Nửa Chặng Đường | 182 ngày | ⏳ |
+| 🐉 | Huyền Thoại | 200 ngày | ⏳ |
+| 🦸 | Siêu Nhân | 250 ngày | ⏳ |
+| 🛡️ | SPARTAN | 300 ngày | ⏳ |
+| 👑 | VƯƠNG GIẢ 365 | 365 ngày | ⏳ |
 
 </details>
 
 ---
 
-### 💬 Quote Hôm Nay
+## 💬 Quote Hôm Nay
 
-> *"The best time to plant a tree was 20 years ago. The second b"*
-
----
-
-### ✨ Lời nhắn cho chính mình
-
-```
-Năm mới, trang mới, con người mới.
-Đừng sợ thất bại, hãy sợ không dám bắt đầu.
-365 ngày sau, hãy nhìn lại và tự hào về những gì đã làm được!
-```
+> *"Make it work, make it right, make it fast. - Kent Beck"*
 
 ---
 
-*"Cuộc hành trình ngàn dặm bắt đầu từ một bước chân."* - Lão Tử
+<div align="center">
 
-🚀 **Let's go 2026!**
+*Cuộc hành trình ngàn dặm bắt đầu từ một bước chân.* — Lão Tử
+
+**🚀 Let's go 2026!**
+
+</div>
