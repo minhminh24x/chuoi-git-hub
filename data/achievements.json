@@ -1,0 +1,154 @@
+{
+    "achievements": [
+        {
+            "id": "first_commit",
+            "name": "Khởi Đầu",
+            "icon": "🎬",
+            "description": "Commit đầu tiên của hành trình",
+            "condition": {
+                "type": "total_days",
+                "value": 1
+            }
+        },
+        {
+            "id": "first_week",
+            "name": "First Week",
+            "icon": "🔥",
+            "description": "7 ngày liên tiếp không nghỉ",
+            "condition": {
+                "type": "streak",
+                "value": 7
+            }
+        },
+        {
+            "id": "two_weeks",
+            "name": "Fortnight Fighter",
+            "icon": "⚔️",
+            "description": "14 ngày chiến đấu liên tục",
+            "condition": {
+                "type": "streak",
+                "value": 14
+            }
+        },
+        {
+            "id": "one_month",
+            "name": "Monthly Master",
+            "icon": "🌙",
+            "description": "30 ngày không gián đoạn",
+            "condition": {
+                "type": "streak",
+                "value": 30
+            }
+        },
+        {
+            "id": "fifty_days",
+            "name": "Half Century",
+            "icon": "⭐",
+            "description": "50 ngày - nửa đường đến 100",
+            "condition": {
+                "type": "streak",
+                "value": 50
+            }
+        },
+        {
+            "id": "century",
+            "name": "Century Club",
+            "icon": "💯",
+            "description": "100 ngày LEGENDARY!",
+            "condition": {
+                "type": "streak",
+                "value": 100
+            }
+        },
+        {
+            "id": "halfway",
+            "name": "Halfway Hero",
+            "icon": "🎯",
+            "description": "182 ngày - đã đi nửa chặng đường!",
+            "condition": {
+                "type": "streak",
+                "value": 182
+            }
+        },
+        {
+            "id": "three_hundred",
+            "name": "Spartan",
+            "icon": "🛡️",
+            "description": "300 ngày như chiến binh Sparta",
+            "condition": {
+                "type": "streak",
+                "value": 300
+            }
+        },
+        {
+            "id": "champion",
+            "name": "365 Champion",
+            "icon": "👑",
+            "description": "365 ngày - VƯƠNG GIẢ đích thực!",
+            "condition": {
+                "type": "streak",
+                "value": 365
+            }
+        },
+        {
+            "id": "early_bird",
+            "name": "Early Bird",
+            "icon": "🌅",
+            "description": "Commit trước 6:00 sáng",
+            "condition": {
+                "type": "time",
+                "value": "before_6am"
+            }
+        },
+        {
+            "id": "night_owl",
+            "name": "Night Owl",
+            "icon": "🦉",
+            "description": "Commit sau 23:00 đêm",
+            "condition": {
+                "type": "time",
+                "value": "after_11pm"
+            }
+        },
+        {
+            "id": "weekend_warrior",
+            "name": "Weekend Warrior",
+            "icon": "⚡",
+            "description": "Commit vào thứ 7 và Chủ nhật",
+            "condition": {
+                "type": "day",
+                "value": "weekend"
+            }
+        },
+        {
+            "id": "double_digits",
+            "name": "Double Digits",
+            "icon": "🎰",
+            "description": "Ngày có 10+ commits",
+            "condition": {
+                "type": "daily_commits",
+                "value": 10
+            }
+        },
+        {
+            "id": "hundred_commits",
+            "name": "Commit Centurion",
+            "icon": "🏛️",
+            "description": "Tổng cộng 100 commits",
+            "condition": {
+                "type": "total_commits",
+                "value": 100
+            }
+        },
+        {
+            "id": "five_hundred_commits",
+            "name": "Commit Commander",
+            "icon": "🎖️",
+            "description": "Tổng cộng 500 commits",
+            "condition": {
+                "type": "total_commits",
+                "value": 500
+            }
+        }
+    ]
+}

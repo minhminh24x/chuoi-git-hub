@@ -1,0 +1,135 @@
+{
+    "quotes": [
+        {
+            "text": "Mỗi ngày một bước nhỏ, cả năm một hành trình vĩ đại.",
+            "author": "Unknown"
+        },
+        {
+            "text": "Sự kiên trì có thể chinh phục mọi thứ.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "text": "Không phải ngày tốt nhất mà là cố gắng nhất.",
+            "author": "Unknown"
+        },
+        {
+            "text": "Code hôm nay, deploy ngày mai, thành công cả đời.",
+            "author": "Dev Wisdom"
+        },
+        {
+            "text": "Consistency beats talent when talent doesn't work hard.",
+            "author": "Tim Notke"
+        },
+        {
+            "text": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs"
+        },
+        {
+            "text": "First, solve the problem. Then, write the code.",
+            "author": "John Johnson"
+        },
+        {
+            "text": "Một commit một ngày, bác sĩ không cần gặp.",
+            "author": "Dev Proverb"
+        },
+        {
+            "text": "Giữ chuỗi GitHub xanh như giữ lửa trong tim.",
+            "author": "minhminh24x"
+        },
+        {
+            "text": "It does not matter how slowly you go as long as you do not stop.",
+            "author": "Confucius"
+        },
+        {
+            "text": "Success is the sum of small efforts repeated day in and day out.",
+            "author": "Robert Collier"
+        },
+        {
+            "text": "The secret of getting ahead is getting started.",
+            "author": "Mark Twain"
+        },
+        {
+            "text": "Every expert was once a beginner.",
+            "author": "Helen Hayes"
+        },
+        {
+            "text": "Đừng đợi cảm hứng, hãy tạo ra nó.",
+            "author": "Unknown"
+        },
+        {
+            "text": "Talk is cheap. Show me the code.",
+            "author": "Linus Torvalds"
+        },
+        {
+            "text": "Simplicity is the soul of efficiency.",
+            "author": "Austin Freeman"
+        },
+        {
+            "text": "Make it work, make it right, make it fast.",
+            "author": "Kent Beck"
+        },
+        {
+            "text": "Programs must be written for people to read.",
+            "author": "Harold Abelson"
+        },
+        {
+            "text": "Cuộc hành trình ngàn dặm bắt đầu từ một bước chân.",
+            "author": "Lão Tử"
+        },
+        {
+            "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "text": "Năm mới, trang mới, con người mới.",
+            "author": "Unknown"
+        },
+        {
+            "text": "Đừng sợ thất bại, hãy sợ không dám bắt đầu.",
+            "author": "Unknown"
+        },
+        {
+            "text": "365 commits = 365 cơ hội để trở nên tốt hơn.",
+            "author": "minhminh24x"
+        },
+        {
+            "text": "Clean code always looks like it was written by someone who cares.",
+            "author": "Robert C. Martin"
+        },
+        {
+            "text": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+            "author": "Phil Karlton"
+        },
+        {
+            "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+            "author": "Martin Fowler"
+        },
+        {
+            "text": "Debugging is twice as hard as writing code. So if you write code as cleverly as possible, you're not smart enough to debug it.",
+            "author": "Brian Kernighan"
+        },
+        {
+            "text": "The function of good software is to make the complex appear simple.",
+            "author": "Grady Booch"
+        },
+        {
+            "text": "Commit often. Perfect later.",
+            "author": "Dev Wisdom"
+        },
+        {
+            "text": "Một năm 365 ngày, 365 commits, 1 developer phi thường.",
+            "author": "minhminh24x"
+        }
+    ],
+    "milestoneQuotes": {
+        "7": "🔥 Một tuần kiên trì! Flame đã bắt đầu cháy!",
+        "30": "🌙 Một tháng rồi! Bạn đang viết nên câu chuyện của mình!",
+        "50": "⭐ Nửa đường đến 100! Tiến lên thôi!",
+        "100": "💯 CENTURY! 100 ngày không nghỉ! LEGENDARY!",
+        "150": "🎯 150 ngày! Kỷ luật thép, ý chí sắt!",
+        "182": "🎊 HALFWAY! Đã đi được nửa chặng đường 365 ngày!",
+        "200": "🚀 200 ngày! Không gì có thể ngăn cản bạn!",
+        "300": "👑 300 ngày! Vương giả phong thái!",
+        "365": "🏆 CHAMPION! 365/365! BẠN ĐÃ LÀM ĐƯỢC! INCREDIBLE!"
+    }
+}
