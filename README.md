@@ -4,13 +4,13 @@
 
 ---
 
-## 📅 Ngày 1/365 - 01/01/2026
+## 📅 Ngày 4/365 - 04/01/2026
 
-**Hôm nay là ngày đầu tiên của hành trình 1 năm.**
+**Hôm nay là ngày thứ 4 của hành trình 1 năm.**
 
 Đây không chỉ là về việc giữ chuỗi GitHub xanh. Đây là lời hứa với bản thân:
 - 🎯 Mỗi ngày đều có ý nghĩa
-- 💪 Kiên trì là chìa khóa của thành công  
+- 💪 Kiên trì là chìa khóa của thành công
 - 🌱 Từng commit nhỏ sẽ tạo nên những điều lớn lao
 
 ### ✨ Lời nhắn cho chính mình
@@ -27,7 +27,7 @@ Năm mới, trang mới, con người mới.
 
 | Năm | Ngày đã commit | Mục tiêu |
 |-----|----------------|----------|
-| 2026 | 1 | 365 |
+| 2026 | 4 | 365 |
 
 ---
 
