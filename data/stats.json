@@ -1,18 +1,11 @@
 {
-    "currentStreak": 4,
-    "longestStreak": 4,
-    "totalCommits": 17,
-    "startDate": "2026-01-01",
-    "lastCommitDate": "2026-01-04",
-    "targetDays": 365,
-    "achievements": [],
-    "weeklyStats": {
-        "Sun": 0,
-        "Mon": 0,
-        "Tue": 0,
-        "Wed": 1,
-        "Thu": 2,
-        "Fri": 1,
-        "Sat": 0
-    }
+  "currentStreak": 5,
+  "longestStreak": 5,
+  "totalCommits": 18,
+  "startDate": "2026-01-01",
+  "lastCommitDate": "2026-01-04",
+  "targetDays": 365,
+  "dayOfYear": 4,
+  "progress": "1.0%",
+  "achievements": "🎬 "
 }
