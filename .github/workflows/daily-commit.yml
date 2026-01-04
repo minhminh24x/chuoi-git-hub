@@ -38,9 +38,9 @@ jobs:
           echo "📅 Ngày: $TODAY_DISPLAY"
           echo "📊 Số commits cần tạo: $COMMIT_COUNT"
           
-          # Cấu hình git
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
+          # Cấu hình git - QUAN TRỌNG: Email phải khớp với email GitHub của bạn!
+          git config --local user.email "minhminh24x@users.noreply.github.com"
+          git config --local user.name "minhminh24x"
           
           # Random emoji
           EMOJIS=("🌟" "💪" "🚀" "✨" "🎯" "🌱" "💡" "⚡" "🔥" "🎉")
