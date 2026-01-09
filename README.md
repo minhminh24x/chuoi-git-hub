@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 8/365 — 08/01/2026
+## 📅 Ngày 9/365 — 09/01/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **8 ngày** | **21** | **2.1%** | **365** |
+| **9 ngày** | **22** | **2.4%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.1% (8/365)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.4% (9/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"Sự kiên trì có thể chinh phục mọi thứ. - Benjamin Franklin"*
+> *"The only way to do great work is to love what you do. - Steve Jobs"*
 
 ---
 
