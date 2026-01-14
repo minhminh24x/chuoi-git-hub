@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 13/365 — 13/01/2026
+## 📅 Ngày 14/365 — 14/01/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **13 ngày** | **48** | **3.5%** | **365** |
+| **14 ngày** | **60** | **3.8%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3.5% (13/365)
+▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3.8% (14/365)
 ```
 
 ---
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 
+🚀 🌸 🔱 ⚔️ 📦 
 
 </div>
 
@@ -42,7 +42,7 @@
 | 🚀 | Bước Đầu Tiên | 1 ngày | ✅ |
 | 🌸 | Hattsune | 3 ngày | ✅ |
 | 🔱 | Tuần Lễ Đầu | 7 ngày | ✅ |
-| ⚔️ | Chiến Binh | 14 ngày | ⏳ |
+| ⚔️ | Chiến Binh | 14 ngày | ✅ |
 | 📚 | Học Viên | 21 ngày | ⏳ |
 | 🌕 | Tháng Đầu | 30 ngày | ⏳ |
 | 💫 | Half Century | 50 ngày | ⏳ |
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The secret of getting ahead is getting started. - Mark Twain"*
+> *"⚔️ FORTNIGHT! 14 ngày chiến đấu không ngừng nghỉ!"*
 
 ---
 
