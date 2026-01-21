@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 20/365 — 20/01/2026
+## 📅 Ngày 21/365 — 21/01/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **20 ngày** | **110** | **5.4%** | **365** |
+| **21 ngày** | **111** | **5.7%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.4% (20/365)
+▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.7% (21/365)
 ```
 
 ---
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📦 🏛️ 
+🚀 🌸 🔱 ⚔️ 📚 📦 🏛️ 
 
 </div>
 
@@ -43,7 +43,7 @@
 | 🌸 | Hattsune | 3 ngày | ✅ |
 | 🔱 | Tuần Lễ Đầu | 7 ngày | ✅ |
 | ⚔️ | Chiến Binh | 14 ngày | ✅ |
-| 📚 | Học Viên | 21 ngày | ⏳ |
+| 📚 | Học Viên | 21 ngày | ✅ |
 | 🌕 | Tháng Đầu | 30 ngày | ⏳ |
 | 💫 | Half Century | 50 ngày | ⏳ |
 | 💎 | CENTURY | 100 ngày | ⏳ |
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"First, solve the problem. Then, write the code. - John Johnson"*
+> *"The only way to do great work is to love what you do. - Steve Jobs"*
 
 ---
 
