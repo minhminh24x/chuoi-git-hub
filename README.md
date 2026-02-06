@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 36/365 — 05/02/2026
+## 📅 Ngày 37/365 — 06/02/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **36 ngày** | **192** | **9.8%** | **365** |
+| **37 ngày** | **204** | **10.1%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9.8% (36/365)
+▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.1% (37/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The secret of getting ahead is getting started. - Mark Twain"*
+> *"Consistency beats talent when talent doesn't work hard."*
 
 ---
 
