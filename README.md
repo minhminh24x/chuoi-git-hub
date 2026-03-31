@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 89/365 — 30/03/2026
+## 📅 Ngày 90/365 — 31/03/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **89 ngày** | **531** | **24.3%** | **365** |
+| **90 ngày** | **532** | **24.6%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░ 24.3% (89/365)
+▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░ 24.6% (90/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The only way to do great work is to love what you do. - Steve Jobs"*
+> *"Talk is cheap. Show me the code. - Linus Torvalds"*
 
 ---
 
