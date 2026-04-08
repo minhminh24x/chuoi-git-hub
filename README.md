@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 97/365 — 07/04/2026
+## 📅 Ngày 98/365 — 08/04/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **97 ngày** | **561** | **26.5%** | **365** |
+| **98 ngày** | **573** | **26.8%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░ 26.5% (97/365)
+▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 26.8% (98/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"Talk is cheap. Show me the code. - Linus Torvalds"*
+> *"The only way to do great work is to love what you do. - Steve Jobs"*
 
 ---
 
