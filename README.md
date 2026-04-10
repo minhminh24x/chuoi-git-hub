@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 99/365 — 09/04/2026
+## 📅 Ngày 100/365 — 10/04/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **99 ngày** | **585** | **27.1%** | **365** |
+| **100 ngày** | **597** | **27.3%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 27.1% (99/365)
+▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 27.3% (100/365)
 ```
 
 ---
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -46,7 +46,7 @@
 | 📚 | Học Viên | 21 ngày | ✅ |
 | 🌕 | Tháng Đầu | 30 ngày | ✅ |
 | 💫 | Half Century | 50 ngày | ✅ |
-| 💎 | CENTURY | 100 ngày | ⏳ |
+| 💎 | CENTURY | 100 ngày | ✅ |
 | 🗡️ | Samurai | 150 ngày | ⏳ |
 | 🎯 | Nửa Chặng Đường | 182 ngày | ⏳ |
 | 🐉 | Huyền Thoại | 200 ngày | ⏳ |
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"First, solve the problem. Then, write the code. - John Johnson"*
+> *"💎 CENTURY CLUB! 100 ngày - BẠN LÀ HUYỀN THOẠI!"*
 
 ---
 
