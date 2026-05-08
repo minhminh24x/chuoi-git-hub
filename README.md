@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 127/365 — 07/05/2026
+## 📅 Ngày 128/365 — 08/05/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **127 ngày** | **767** | **34.7%** | **365** |
+| **128 ngày** | **779** | **35.0%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 34.7% (127/365)
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 35.0% (128/365)
 ```
 
 ---
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🦉 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The only way to do great work is to love what you do. - Steve Jobs"*
+> *"The secret of getting ahead is getting started. - Mark Twain"*
 
 ---
 
