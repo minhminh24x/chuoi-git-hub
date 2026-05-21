@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 140/365 — 20/05/2026
+## 📅 Ngày 141/365 — 21/05/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **140 ngày** | **846** | **38.3%** | **365** |
+| **141 ngày** | **858** | **38.6%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░ 38.3% (140/365)
+▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░ 38.6% (141/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The only way to do great work is to love what you do. - Steve Jobs"*
+> *"Consistency beats talent when talent doesn't work hard."*
 
 ---
 
