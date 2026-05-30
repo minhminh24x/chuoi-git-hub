@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🌅 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"Đừng sợ thất bại, hãy sợ không dám bắt đầu."*
+> *"The secret of getting ahead is getting started. - Mark Twain"*
 
 ---
 
