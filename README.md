@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🌅 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🦉 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"Talk is cheap. Show me the code. - Linus Torvalds"*
+> *"Every expert was once a beginner. - Helen Hayes"*
 
 ---
 
