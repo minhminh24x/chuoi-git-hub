@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🌅 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🦉 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The only way to do great work is to love what you do. - Steve Jobs"*
+> *"Code hôm nay, deploy ngày mai, thành công mãi mãi."*
 
 ---
 
