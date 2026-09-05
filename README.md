@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🎯 🐉 🌅 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🎯 🐉 🦉 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"365 commits = 365 cơ hội để trở nên tốt hơn!"*
+> *"Success is the sum of small efforts repeated day in and day out."*
 
 ---
 
