@@ -30,7 +30,7 @@
 
 <div align="center">
 
-🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🎯 🐉 🦸 🌅 📦 🏛️ 🚂 🏆 
+🚀 🌸 🔱 ⚔️ 📚 🌕 💫 💎 🗡️ 🎯 🐉 🦸 🦉 📦 🏛️ 🚂 🏆 
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"Success is the sum of small efforts repeated day in and day out."*
+> *"Đừng sợ thất bại, hãy sợ không dám bắt đầu."*
 
 ---
 
