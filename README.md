@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 273/365 — 30/09/2026
+## 📅 Ngày 274/365 — 01/10/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **273 ngày** | **1132** | **74.7%** | **365** |
+| **274 ngày** | **1133** | **75.0%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 74.7% (273/365)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 75.0% (274/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"Programs must be written for people to read. - Harold Abelson"*
+> *"Consistency beats talent when talent doesn't work hard."*
 
 ---
 
