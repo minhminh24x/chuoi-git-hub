@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 286/365 — 13/10/2026
+## 📅 Ngày 287/365 — 14/10/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **286 ngày** | **1145** | **78.3%** | **365** |
+| **287 ngày** | **1146** | **78.6%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 78.3% (286/365)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 78.6% (287/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The only way to do great work is to love what you do. - Steve Jobs"*
+> *"Success is the sum of small efforts repeated day in and day out."*
 
 ---
 
