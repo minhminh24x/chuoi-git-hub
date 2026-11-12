@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 316/365 — 12/11/2026
+## 📅 Ngày 317/365 — 13/11/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **316 ngày** | **1174** | **86.5%** | **365** |
+| **317 ngày** | **1175** | **86.8%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 86.5% (316/365)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 86.8% (317/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"First, solve the problem. Then, write the code. - John Johnson"*
+> *"The secret of getting ahead is getting started. - Mark Twain"*
 
 ---
 
