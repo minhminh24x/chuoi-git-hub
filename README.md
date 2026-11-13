@@ -12,16 +12,16 @@
 
 ---
 
-## 📅 Ngày 317/365 — 13/11/2026
+## 📅 Ngày 318/365 — 14/11/2026
 
 | 🔥 Streak | 💻 Commits | 📈 Progress | 🎯 Target |
 |:---------:|:----------:|:-----------:|:---------:|
-| **317 ngày** | **1175** | **86.8%** | **365** |
+| **318 ngày** | **1176** | **87.1%** | **365** |
 
 ### 🎮 Progress Bar
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 86.8% (317/365)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 87.1% (318/365)
 ```
 
 ---
@@ -60,7 +60,7 @@
 
 ## 💬 Quote Hôm Nay
 
-> *"The secret of getting ahead is getting started. - Mark Twain"*
+> *"Programs must be written for people to read. - Harold Abelson"*
 
 ---
 
